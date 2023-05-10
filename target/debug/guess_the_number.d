@@ -1,1 +1,0 @@
-/home/carlos/Visual\ Studio\ Code/Learning\ Rust/guess_the_number/target/debug/guess_the_number: /home/carlos/Visual\ Studio\ Code/Learning\ Rust/guess_the_number/src/main.rs /home/carlos/Visual\ Studio\ Code/Learning\ Rust/guess_the_number/src/number_guesser.rs
